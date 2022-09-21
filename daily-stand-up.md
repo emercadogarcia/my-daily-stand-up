@@ -1,6 +1,3 @@
-# my-daily-stand-up
-Mi dia a dia registrado como parte de un nuevo habito que deseo generar
-
 # Daily Stand-Up
 Seguimiento de tareas de SPRINT
 DIARIAMENTE QUE SE DEBE REALIZAR:
