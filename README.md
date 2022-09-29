@@ -148,8 +148,11 @@ Revision de los maestros de forma generica.
 ### 26/09/2022
     de Vacacion
 ### 27/09/2022
-    1. reunion con equipo de compras para ver pedidos y consultas.
-    2. 
+    1. Reunion con equipo de compras para ver pedidos y consultas.
+    2. Atencion ticket.
+    3. Atencion y soporte a logistica scz.
+    4. Entevista William Cuellar.
+
 
     Willam cuellar  ===>  2 semanas, Pretension salarial = 8000 bs.
         10 años  --- C#
@@ -169,5 +172,14 @@ Revision de los maestros de forma generica.
         * ¿Qué me puedes decir de tu jefe anterior?
         * ¿Cuál es tu mayor debilidad o defecto?
     - 
-    - 
+### 28/09/2022
+    1. Cerrar temas de reportes solicitados por operaciones.
+    2. se agrega campo a reporte de entrega de pedidos desde bpm el tema de finalizar alistamiento.
+    3. responde correos con solicitud de informacion.
+    4. incidente con OC para ingresar mercaderia.
+    5. Se reporta incidencia a EDISA sobre timbrado de facturas que no temrinan con el circuito.
+
+### 29/09/2022
+    1. Revision de ticket que respondio EDISA sobre circuito de timbrado y ahora si todos estan completados e indicaron que se debio a que se trataba de dos facturas atascadas.
+    2. 
 
