@@ -139,4 +139,35 @@ Revision de los maestros de forma generica.
     1. Se solicita a contabilidad los modelos de plantilla para contabilizacion de nomina.
     2. Se solicita ejemplos registrados en libra sobre finiquitos y quinquenios.
     3. Se completo la contabilizacion de nomina mensual de acuerdo a lo solicitado por contabailidad y se envia correo.
-    4. 
+    4. revision de fecha d epedido-detemrinando problema.
+### 22/09/2022
+    1. Programacion de tareas de tickets.
+    2. Continuacion de revision fecha pedido (incidencia cuando se carga desde web).
+       Se aplica un parche para obtener la fecha correcta de la session en le programa de pedidos web. 
+    3. entrevistamos a Natalio, posible postulante.
+### 26/09/2022
+    de Vacacion
+### 27/09/2022
+    1. reunion con equipo de compras para ver pedidos y consultas.
+    2. 
+
+    Willam cuellar  ===>  2 semanas, Pretension salarial = 8000 bs.
+        10 años  --- C#
+        DISMAC ===  (LISA) 
+            * Sistema de pago
+            * whataspa == no
+        toyosa: 
+        Banca, Retail , automotriz
+            - Experiencia.
+            - ERP uruguayo - SAP BUSINESS ONE.
+        -      
+    Preguntas:
+    - Metricas: 
+        * KPI / OKR  === scrum, asaana
+        * Uso de repositorios? "GIT"
+        * Estarias dispuesto a realizar prueba?
+        * ¿Qué me puedes decir de tu jefe anterior?
+        * ¿Cuál es tu mayor debilidad o defecto?
+    - 
+    - 
+
