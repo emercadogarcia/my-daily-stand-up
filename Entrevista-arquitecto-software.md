@@ -67,14 +67,37 @@
     - Estarias dispuesto a realizar prueba?5
     - 
 
+### Nombre: EVER RODRIGUEZ CANIZAREES
+    Predisposicion:  2 Semanas   Pretension salarial: 8500 Bs.
+    Ultimo trabajo: Linkser  
+        - Experiencia  java destop y consola soap rest (8), oracle (8), cobol c#
+            Extracto de cuentas.
+            migracion de reglas. 
+
+    Preguntas:
+    - cosnultas al 70% ---- reglas en transacciones bancarias
+    - linkers misma web service --- transacciones financieras.
+    - Metricas === Objetivos KPI / OKR.   SCRUM. 
+    - Que es ERP?   no
+    - Qeu es WMS?  no
+    -  BPM ? ===  no
+    - Experiencia con [consultas, cubos, lenguaje DAX], NO SIN EXPERICIA 
+    - ¿Cuál es tu mayor debilidad o defecto?
+    - ¿Qué me puedes decir de tu jefe anterior?
+    - Uso de repositorios? "GIT" 
+    - Estarias dispuesto a realizar prueba? 
+
 ### Nombre: 
     Ultimo trabajo: 
         - Experiencia 
     Preguntas:
     - Metricas === Objetivos KPI / OKR.
     - Experiencia con consultas, cubos, lenguaje DAX
+    - Que es ERP? 
+    - Qeu es WMS?
+    -  BPM ? === 
     - ¿Cuál es tu mayor debilidad o defecto?
     - ¿Qué me puedes decir de tu jefe anterior?
     - Uso de repositorios? "GIT"
     - Estarias dispuesto a realizar prueba?
-    - 
+

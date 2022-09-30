@@ -181,5 +181,11 @@ Revision de los maestros de forma generica.
 
 ### 29/09/2022
     1. Revision de ticket que respondio EDISA sobre circuito de timbrado y ahora si todos estan completados e indicaron que se debio a que se trataba de dos facturas atascadas.
-    2. 
+    2. Reunion de ejecucion reporte de cartera.
+#### Reporte de cartera como se ejecuta.
+##### Actualmente como la realiza
+     1. Composicion a corte
+     2. Ventas y NDC 
+     3. Validacion de datos, como van a cuadrar cuando se haga por el sistema.
+     Obtener el listado de clientes con saldo cartera de R. RECONSTRUCCION DE SALDO CARTERA.
 
