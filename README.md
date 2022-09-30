@@ -11,6 +11,9 @@ DIARIAMENTE QUE SE DEBE REALIZAR:
 ¿Qué hare hoy?
 ¿Tengo algun impedimento?
 
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
 ## Agosto - 2022
 ### Fecha 16/08/2022
     1. Se presento inconveninetes, en horas de la mañana, en el timbrado de las notas de credito y facturas, se realizaron las revisiones preliminares y no se encontraban ningun bloqueo. Se genera Ticket de soporte a EDISA. El personal de facturacion reporte recien en horas de la tarde.
@@ -188,4 +191,13 @@ Revision de los maestros de forma generica.
      2. Ventas y NDC 
      3. Validacion de datos, como van a cuadrar cuando se haga por el sistema.
      Obtener el listado de clientes con saldo cartera de R. RECONSTRUCCION DE SALDO CARTERA.
+### 30/09/2022
+    1. 
 
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
+
+
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
