@@ -187,17 +187,30 @@ Revision de los maestros de forma generica.
     2. Reunion de ejecucion reporte de cartera.
 #### Reporte de cartera como se ejecuta.
 ##### Actualmente como la realiza
-     1. Composicion a corte
-     2. Ventas y NDC 
+     1. Composicion a corte.
+     2. Ventas y NDC.
      3. Validacion de datos, como van a cuadrar cuando se haga por el sistema.
      Obtener el listado de clientes con saldo cartera de R. RECONSTRUCCION DE SALDO CARTERA.
 ### 30/09/2022
-    1. 
+    1. Se realiza soporte de fin de mes.
+    2. se entrega tema de nomina para contabilizar.
 
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
+## Octubre-2022 
+### 01/10/2022 
+    1. Soporte a CBBA para quitar hojas de carga.
+    2. DE turno - TI
+### 03/10/2022
+    1. Se tiene reunion con gernecia sobre la anulacion y las restricciones que de be tneer
+    2. Se habiltia reporte de suipohar medicos recetantes.
+    3. Capacitacion introduccion a libra:
+        * Albredo Aruquipa Condori  ==> Cargo Logistica inversa
+### 04/10/2022
+    1. Se 
+### 05/10/2022
 
-
-   <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+### 18/10/2022
+    1. Revision de informe cartera desde generador de reporte con ´reconstruida.cobros('JDIAZ', sysdate(), '004', :F_FECHA_CORTE, '', '')`
+    2. Reunion de analisis FODA.
+    3. Capacitacion de revertir anulacion de facturas.
+    4. 
