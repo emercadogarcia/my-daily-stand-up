@@ -213,4 +213,6 @@ Revision de los maestros de forma generica.
     1. Revision de informe cartera desde generador de reporte con ´reconstruida.cobros('JDIAZ', sysdate(), '004', :F_FECHA_CORTE, '', '')`
     2. Reunion de analisis FODA.
     3. Capacitacion de revertir anulacion de facturas.
-    4. 
+    4. Pasar timbrado de facturas atascadas.
+### 19/10/2022
+    1. 
