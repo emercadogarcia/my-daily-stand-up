@@ -215,4 +215,12 @@ Revision de los maestros de forma generica.
     3. Capacitacion de revertir anulacion de facturas.
     4. Pasar timbrado de facturas atascadas.
 ### 19/10/2022
-    1. 
+    1. reunion de revision de nuevos kpi:
+        a. anulacion de facturas poner candado 1
+        b. analizar factibilidad para hacer con un solo clic carga de datos a libra.
+    2. Ticket de soporte a EDISA para el tema de envio de fecha aL SIN.
+    3. se destranca flujo de timbrado para el sistema.
+### 20/10/2022
+    1. revisando respuesta de ticket de EDISA.
+    2. Se revisa tema de candado para anulacion de facturas.
+    
