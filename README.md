@@ -224,3 +224,17 @@ Revision de los maestros de forma generica.
     1. revisando respuesta de ticket de EDISA.
     2. Se revisa tema de candado para anulacion de facturas.
     
+### 21/10/2022
+    1. Se tuvo problema con el timbrado de facturas, la fecha esta siendo enviada con GMT-3 y causo problema. se modifico linea de paguete para subsanar.
+    2. Se revisa caso de ingreso de mercancia con excedentes, compras indica que no se puede ingresar oc 03-1429 1156.
+    3. Se aytuda a Silvia con Produccion, producto mal configurado.
+### 24/10/2022 
+    1. Problemas con el WL1, se programa reinicio para dar mas recursos y se tuvo problema al reinicio. A las 9:30 se restablecio el servicio.
+    2. 
+### 25/10/2022
+    1. Revision de lotes con puntos para cbba.
+    2. Capacitacion ajuste de lotes - para contabilidad.
+    3. revision de ndc B10-842 cambiando fecha de certificado.  Por nueva restriccion del SIN.
+### 26/10/2022    
+    1. 
+    
