@@ -236,5 +236,13 @@ Revision de los maestros de forma generica.
     2. Capacitacion ajuste de lotes - para contabilidad.
     3. revision de ndc B10-842 cambiando fecha de certificado.  Por nueva restriccion del SIN.
 ### 26/10/2022    
+    1. Se estudia y habilita el proceso de timbrado de las notas de credito para obtener un un timbrado de mayor aceptacion.
+    2. 
+### 27/10/2022
+    1. soporte de ticket a logistica inversa.
+    2. Se habilita control para la anulacion de facturas bloqueando cuando no cuadran los datos.
+    3. soporte a usuarios en anulacion de facturas.
+    4. Soporte a compras en lista de precios.
+### 28/10/2022
     1. 
     
