@@ -244,5 +244,12 @@ Revision de los maestros de forma generica.
     3. soporte a usuarios en anulacion de facturas.
     4. Soporte a compras en lista de precios.
 ### 28/10/2022
+### 31/10/2022
+    1. soporte en cierre de mes. Timbrado de facturas muy lento en horas de la tarde y noche. a las 22:50 se envio correo sobre timbrado de todas las facturas.
+    2. Se ha modiicado reporee donde esta mi pedido? agregando filtro para que no muestre los pedidos de servicios.
+    3. se hizo cierre masivo de bpm.
+    4. 
+### 04/11/2022 
     1. 
+
     
