@@ -249,7 +249,16 @@ Revision de los maestros de forma generica.
     2. Se ha modiicado reporee donde esta mi pedido? agregando filtro para que no muestre los pedidos de servicios.
     3. se hizo cierre masivo de bpm.
     4. 
+## mes de NOVIEMBRE 2022
 ### 04/11/2022 
-    1. 
+    1. Soporte - en cierre de pedidos.
+    2. timbrado de factuas una no llego a timbrar por error reportado en SIN y no temino timbrado de circuito.
+### 07/11/2022
+    1. Se actualiza la tabla de integracion contable de nomina.
+    2. a las 17:35 libra presento una caida de los wl1 y wl2 adicionalmente libra pruebas.
+### 08/11/20222
+    1. Se apoya a Arminda con el movimiento de devoluciones que tenia problema.
+    2. Se ayuda a Ana Maria ha actualiza la formula de reporte 0182 que corresponde a SUIPHAR.
+### 09/11/2022
 
     
