@@ -260,5 +260,8 @@ Revision de los maestros de forma generica.
     1. Se apoya a Arminda con el movimiento de devoluciones que tenia problema.
     2. Se ayuda a Ana Maria ha actualiza la formula de reporte 0182 que corresponde a SUIPHAR.
 ### 09/11/2022
+### 28/11/2022
+    1. Revision de correo y status de kpi.
+    2. Revision 
 
     
