@@ -262,6 +262,17 @@ Revision de los maestros de forma generica.
 ### 09/11/2022
 ### 28/11/2022
     1. Revision de correo y status de kpi.
-    2. Revision 
+    2. Revision de tareas pendientes y pruebas de los kpi.
+    3. Prueba de remisiones.
+    4. Anulan factura y presento diferencia en cuadrar los datos de contabilizacion.
+### 29/11/2022
+    1. Revisando POWER APP de O365.
+    2. Se comparte query para obtener duplicado.
+    3. Se tiene reunion para proximos pasos de contabilizacion de nomina.
+    4. Se realiza reunion de TI de fin de mes.
+    5. Ejecutar bpm de pedidos de forma masiva.
+### 30/11/2022
+    1. Ejecutar bpm de pedidos de forma masiva.
+    
 
     
