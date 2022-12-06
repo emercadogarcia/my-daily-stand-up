@@ -273,6 +273,21 @@ Revision de los maestros de forma generica.
     5. Ejecutar bpm de pedidos de forma masiva.
 ### 30/11/2022
     1. Ejecutar bpm de pedidos de forma masiva.
-    
+    2. Se dio apoyo a FREYES en generacion de facturas por servicios.
 
+## Diciembre - 2022
+### 01/12/2022
+    1. Solicitud del area de Calidad sobre colocar una agrupacion a los registros.
+    2.  reportan incidencia en el calculo de aguinaldo el cual fue resuelto y se envia a vlidacion.
     
+### 02/12/2022
+    1. Se revisa los KPI de Jc y se ayuda con el tema de validaciones para los duplicados.
+    2. Reportan incidencia en nota de credito que no se estaba mostrando correctamente la fecha de la factura de forma correcta, se aplica correccion en el codigo fuente.
+    3. Se genera KPI del mes de Dciembre.
+### 05/12/2022
+    1. Tome un dia de vacacion por tema de urgencia.
+### 06/12/2022
+    1. Revision de KPI de JC.
+    2. 
+
+
