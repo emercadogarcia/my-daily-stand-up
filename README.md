@@ -288,6 +288,17 @@ Revision de los maestros de forma generica.
     1. Tome un dia de vacacion por tema de urgencia.
 ### 06/12/2022
     1. Revision de KPI de JC.
+    2. programacion de tareas.
+    3. Pedido que se olvicaron de colocar el descuento a pie de factura se actulizo utilizando la herramienta de actualizacion de descuentos y revalorizacion.
+### 07/12/2022
+    1. Reuniode AUDIENCIA CAUTELAR javier chinches.
+    2. Tema produccion de articulos 00038795 y 00030545
+    3. Ana Maria: se colabora con la nueva contabilizacion debido a cambios en NDC de LPZ.
+### 08/12/2022
+    1. Capaicitacion equipo de logistica inversa y facturacon.
+### 09/12/2022
+    1. Reunion de consultas 
+    2. Se realiza pruebas al movimeintos de stock reportado por Ana Maria.
+### 12/12/2022
+    1. Staotus de proeyectos. Revision de proyectos de tecnologia.
     2. 
-
-
