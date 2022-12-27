@@ -301,4 +301,22 @@ Revision de los maestros de forma generica.
     2. Se realiza pruebas al movimeintos de stock reportado por Ana Maria.
 ### 12/12/2022
     1. Staotus de proeyectos. Revision de proyectos de tecnologia.
+    2. Revision de ticket de Ana Maria. Se hace cambio en el reporte añadiendo que no permita opcion a errores.
+    3. Se da respuesta a Maria Fernanda sobre su ticket.
+    4. Se envia correo a Sonia y Edson para retomar el tema de contabilizacion de nomina (finiquitos).
+### 13/12/2022
+    1. Se recibe modelo de contabilizacion de nomina - FINIQUITO.
+    2. Se aplica cambio al bpm 04003 para que se ejecute y pueda avanzar con los bpm de clientes sin deudas.
+    3. revisando codigo de libra donde genera los desucentos aplicados.
+    
+### 19/12/2022
+    1. Revision de proyectos y kpi
+    2. Respuesta a correos y ticket pendientes. Arreglo de reporte
+#### 20/12/2022
+### 21/12/2022
+    1. Apoyo en bpm 03003 para cambiar a al nueva version.
     2. 
+
+### 27/12/2022
+    1. Reunion de Activiso fijos con Edisa Maestros- ramas - 
+    
