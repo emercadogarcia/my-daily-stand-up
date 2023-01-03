@@ -319,4 +319,9 @@ Revision de los maestros de forma generica.
 
 ### 27/12/2022
     1. Reunion de Activiso fijos con Edisa Maestros- ramas - 
+    2. nuevamente problema con la clasificacion de articulos en el maestro.
+### 28/12/2022
+    1. Se realiza revision de KPI de Jose Carlos D.
+    2. Se planifica vacacion de JC desde el 03 al 13 de enero, retornando el 16.
+    3. Se hizo ajustes del articulo 00017388.
     
